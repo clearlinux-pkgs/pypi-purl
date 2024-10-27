@@ -7,7 +7,7 @@
 #
 Name     : pypi-purl
 Version  : 1.6
-Release  : 4
+Release  : 5
 URL      : https://files.pythonhosted.org/packages/73/14/0cdd603d9fa6e59f2b88584eec8550f688c37b5e070a1672e08aaa05bb88/purl-1.6.tar.gz
 Source0  : https://files.pythonhosted.org/packages/73/14/0cdd603d9fa6e59f2b88584eec8550f688c37b5e070a1672e08aaa05bb88/purl-1.6.tar.gz
 Summary  : An immutable URL class for easy URL-building and manipulation
